@@ -116,7 +116,7 @@
 ![요구사항정의서](./assets/function_1.PNG)
 ![요구사항정의서](./assets/function_2.PNG)
 
-## 💄 디자인 시안
+## 💄 디자인 시안 - [피그마 바로가기](https://www.figma.com/file/QcT1h43MntIRVToOHHoIr3/%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%95%88?type=design&node-id=2-2&t=0lq0FUi8NpF2gDoX-0)
 ![전체 디자인 시안](./assets//total_design.png)
 ![디자인 시안](./assets/login.PNG) 
 ![디자인 시안](./assets/main.PNG)
