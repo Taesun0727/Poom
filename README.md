@@ -1,5 +1,9 @@
 # POOM - 유기견 후원 및 NFT 발급 서비스
 
+## POOM 서비스 화면
+
+![서비스 화면](./assets/service_screen.gif)
+
 ## 📅 프로젝트 기간
 
 2023년 04월 10일 월요일 - 2023년 05월 19일 금요일 (총 기간 : 6주)
@@ -56,7 +60,6 @@
 
 **Backend - Spring**
 
-- IntelliJ IDE
 - Java 11.0.14
 - Springboot 2.7.11
 - Spring Data JPA 2.7.11
@@ -86,7 +89,6 @@
 
 **Frontend**
 
-- Visual Studio Code IDE
 - Flutter 3.10.0-5.0.pre.24
 - Dart 3.1.0
 - dio 4.0.6
@@ -221,7 +223,3 @@
   - 정확도를 높인 모델 기반으로 이미지 구별을 더 명확하게 할 수 있습니다.
 - 이미지 카툰화 개선
   - 강아지 이미지에 대한 카툰화를 이미지와 더 유사하게 생성할 수 있습니다.
-
-## POOM 서비스 화면
-
-![서비스 화면](./assets/service_screen.gif)
